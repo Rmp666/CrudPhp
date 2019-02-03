@@ -1,0 +1,109 @@
+.navig
+{
+    border-bottom: 1px solid #dddddd;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+}
+
+.textarea 
+{
+    width:30%;
+    min-height:150px;
+}
+
+.footer 
+{
+    position: fixed;
+    bottom: 0;
+    color: black;
+    background-color: white;
+    width: 100%;
+}
+
+.divcontainer
+{
+    flex-direction: column;
+    justify-content: space-between;
+    align-content: stretch;
+    min-height: 85%;
+    margin-bottom: 30px;
+    margin-top: 70px;
+    position: absolute;
+    max-width: 95%;
+}
+
+.divrow
+{
+    margin-bottom: 20px;
+    margin-left: 5px;
+    margin-top: 20px;
+}
+
+.divcol
+{
+    margin-bottom: 30px;
+}
+
+.del
+{
+    margin-left: 5px;
+    position: absolute;
+}
+
+.bw
+{
+    text-indent: 2em;
+    word-wrap: break-word;
+}
+
+.black
+{
+    color: black;
+    background-color: rgb(221, 221, 221);
+}
+
+.black:hover 
+{
+    color: black;
+}
+
+.indentPag
+{
+    margin-bottom: 100px;
+}
+
+.positionPag
+{
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+}
+
+.pg
+{
+    overflow-x: overlay;
+    padding-bottom: 50px;
+    
+}
+
+.pagination ul 
+{
+    max-width: 100%;
+    margin: 0 auto;
+    overflow: hidden;
+    display: table;
+    padding-inline-start: 5px;
+}
+
+.pagination ul li 
+{
+    list-style-type: none;
+    float: left;
+    padding: 3px 5px;
+    margin-right: 1px;
+}
+
+
+
