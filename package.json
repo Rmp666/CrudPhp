@@ -1,0 +1,29 @@
+{
+  "name": "sklar_pdo",
+  "version": "1.0.0",
+  "description": "local",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "css-loader": "^2.1.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.6",
+    "style-loader": "^0.23.1"
+  },
+  "devDependencies": {
+    "webpack": "^4.29.0",
+    "webpack-cli": "^3.2.1"
+  },
+  "scripts": {
+    "web": "webpack",
+    "prod": "webpack webpack --mode production",
+    "dev": "webpack --mode development",
+    "watch": "webpack --mode, development --watch",
+    "version": "webpack --version"
+  },
+  "author": "",
+  "license": "ISC"
+}

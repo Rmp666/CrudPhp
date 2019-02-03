@@ -1,0 +1,264 @@
+﻿
+(2019-02-01 13:01:03);
+Текст ошибки: syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING);
+Файл: W:\domains\Example\Crud_oop\controllers\CoreController.php;
+Строка: 54;
+***
+(2019-02-01 14:00:53);
+Текст ошибки: file_get_contents(http://example/sklar_pdo/views/createUpdate.php): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+;
+Файл: W:\domains\Example\Crud_oop\controllers\CoreController.php;
+Строка: 45;
+***
+(2019-02-01 14:01:31);
+Текст ошибки: file_get_contents(http://example/sklar_pdo/views/createUpdate.php): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+;
+Файл: W:\domains\Example\Crud_oop\controllers\CoreController.php;
+Строка: 45;
+***
+(2019-02-03 09:06:52);
+Текст ошибки: file_get_contents(http://example/Crud_oop/views/read.php): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+;
+Файл: W:\domains\Example\Crud_oop\controllers\CoreController.php;
+Строка: 32;
+***
+(2019-02-03 10:38:23);
+Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sklar1.journals' doesn't exist;
+Файл: W:\domains\Example\Crud_oop\models\Journal.php;
+Строка: 100;
+***
+(2019-02-03 10:40:28);
+Текст ошибки: Undefined index: page;
+Файл: W:\domains\Example\Crud_oop\controllers\CoreController.php;
+Строка: 14;
+***
+(2019-02-03 10:43:40);
+Текст ошибки: Undefined index: page;
+Файл: W:\domains\Example\Crud_oop\controllers\CoreController.php;
+Строка: 14;
+***
+(2019-02-03 11:04:32);
+Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-4' at line 1;
+Файл: W:\domains\Example\Crud_oop\models\Journal.php;
+Строка: 37;
+***
+(2019-02-03 11:04:38);
+Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-4' at line 1;
+Файл: W:\domains\Example\Crud_oop\models\Journal.php;
+Строка: 37;
+***
+(2019-02-03 11:34:55);
+Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sklar1.journals' doesn't exist;
+Файл: W:\domains\Example\Crud_oop\models\Journal.php;
+Строка: 100;
+***
+(2019-02-03 11:36:11);
+Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sklar1.journals' doesn't exist;
+Файл: W:\domains\Example\Crud_oop\models\Journal.php;
+Строка: 100;
+***
+(2019-02-03 11:36:59);
+Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sklar1.journals' doesn't exist;
+Файл: W:\domains\Example\Crud_oop\models\Journal.php;
+Строка: 100;
+***
+(2019-02-03 11:37:51);
+Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sklar1.journals' doesn't exist;
+Файл: W:\domains\Example\Crud_oop\models\Journal.php;
+Строка: 100;
+***
+(2019-02-03 11:38:57);
+Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sklar1.journals' doesn't exist;
+Файл: W:\domains\Example\Crud_oop\models\Journal.php;
+Строка: 100;
+***
+(2019-02-03 11:40:38);
+Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sklar1.journals' doesn't exist;
+Файл: W:\domains\Example\Crud_oop\models\Journal.php;
+Строка: 100;
+***
+(2019-02-03 11:41:16);
+Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sklar1.journals' doesn't exist;
+Файл: W:\domains\Example\Crud_oop\models\Journal.php;
+Строка: 100;
+***
+(2019-02-03 11:41:26);
+Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sklar1.journals' doesn't exist;
+Файл: W:\domains\Example\Crud_oop\models\Journal.php;
+Строка: 100;
+***
+(2019-02-03 11:43:09);
+Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sklar1.journals' doesn't exist;
+Файл: W:\domains\Example\Crud_oop\models\Journal.php;
+Строка: 100;
+***
+(2019-02-03 11:43:11);
+Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sklar1.journals' doesn't exist;
+Файл: W:\domains\Example\Crud_oop\models\Journal.php;
+Строка: 100;
+***
+(2019-02-03 11:44:02);
+Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sklar1.journals' doesn't exist;
+Файл: W:\domains\Example\Crud_oop\models\Journal.php;
+Строка: 100;
+***
+(2019-02-03 11:44:19);
+Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sklar1.journals' doesn't exist;
+Файл: W:\domains\Example\Crud_oop\models\Journal.php;
+Строка: 100;
+***
+(2019-02-03 11:48:35);
+Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sklar1.journals' doesn't exist;
+Файл: W:\domains\Example\Crud_oop\models\Journal.php;
+Строка: 100;
+***
+(2019-02-03 11:48:51);
+Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sklar1.journals' doesn't exist;
+Файл: W:\domains\Example\Crud_oop\models\Journal.php;
+Строка: 100;
+***
+(2019-02-03 11:49:38);
+Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sklar1.journals' doesn't exist;
+Файл: W:\domains\Example\Crud_oop\models\Journal.php;
+Строка: 100;
+***
+(2019-02-03 11:55:27);
+Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sklar1.journals' doesn't exist;
+Файл: W:\domains\Example\Crud_oop\models\Journal.php;
+Строка: 100;
+***
+(2019-02-03 11:56:03);
+Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sklar1.journals' doesn't exist;
+Файл: W:\domains\Example\Crud_oop\models\Journal.php;
+Строка: 100;
+***
+(2019-02-03 11:56:18);
+Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sklar1.journals' doesn't exist;
+Файл: W:\domains\Example\Crud_oop\models\Journal.php;
+Строка: 100;
+***
+(2019-02-03 11:56:52);
+Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sklar1.journals' doesn't exist;
+Файл: W:\domains\Example\Crud_oop\models\Journal.php;
+Строка: 100;
+***
+(2019-02-03 11:57:12);
+Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sklar1.journals' doesn't exist;
+Файл: W:\domains\Example\Crud_oop\models\Journal.php;
+Строка: 100;
+***
+(2019-02-03 11:57:40);
+Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sklar1.journals' doesn't exist;
+Файл: W:\domains\Example\Crud_oop\models\Journal.php;
+Строка: 100;
+***
+(2019-02-03 11:58:05);
+Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sklar1.journals' doesn't exist;
+Файл: W:\domains\Example\Crud_oop\models\Journal.php;
+Строка: 100;
+***
+(2019-02-03 11:58:21);
+Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sklar1.journals' doesn't exist;
+Файл: W:\domains\Example\Crud_oop\models\Journal.php;
+Строка: 100;
+***
+(2019-02-03 11:58:27);
+Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sklar1.journals' doesn't exist;
+Файл: W:\domains\Example\Crud_oop\models\Journal.php;
+Строка: 100;
+***
+(2019-02-03 11:59:28);
+Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sklar1.journals' doesn't exist;
+Файл: W:\domains\Example\Crud_oop\models\Journal.php;
+Строка: 100;
+***
+(2019-02-03 11:59:31);
+Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sklar1.journals' doesn't exist;
+Файл: W:\domains\Example\Crud_oop\models\Journal.php;
+Строка: 100;
+***
+(2019-02-03 11:59:32);
+Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sklar1.journals' doesn't exist;
+Файл: W:\domains\Example\Crud_oop\models\Journal.php;
+Строка: 100;
+***
+(2019-02-03 11:59:32);
+Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sklar1.journals' doesn't exist;
+Файл: W:\domains\Example\Crud_oop\models\Journal.php;
+Строка: 100;
+***
+(2019-02-03 11:59:32);
+Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sklar1.journals' doesn't exist;
+Файл: W:\domains\Example\Crud_oop\models\Journal.php;
+Строка: 100;
+***
+(2019-02-03 11:59:33);
+Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sklar1.journals' doesn't exist;
+Файл: W:\domains\Example\Crud_oop\models\Journal.php;
+Строка: 100;
+***
+(2019-02-03 11:59:33);
+Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sklar1.journals' doesn't exist;
+Файл: W:\domains\Example\Crud_oop\models\Journal.php;
+Строка: 100;
+***
+(2019-02-03 11:59:33);
+Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sklar1.journals' doesn't exist;
+Файл: W:\domains\Example\Crud_oop\models\Journal.php;
+Строка: 100;
+***
+(2019-02-03 11:59:33);
+Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sklar1.journals' doesn't exist;
+Файл: W:\domains\Example\Crud_oop\models\Journal.php;
+Строка: 100;
+***
+(2019-02-03 11:59:34);
+Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sklar1.journals' doesn't exist;
+Файл: W:\domains\Example\Crud_oop\models\Journal.php;
+Строка: 100;
+***
+(2019-02-03 11:59:34);
+Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sklar1.journals' doesn't exist;
+Файл: W:\domains\Example\Crud_oop\models\Journal.php;
+Строка: 100;
+***
+(2019-02-03 11:59:34);
+Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sklar1.journals' doesn't exist;
+Файл: W:\domains\Example\Crud_oop\models\Journal.php;
+Строка: 100;
+***
+(2019-02-03 11:59:59);
+Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sklar1.journals' doesn't exist;
+Файл: W:\domains\Example\Crud_oop\models\Journal.php;
+Строка: 100;
+***
+(2019-02-03 12:00:29);
+Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sklar1.journals' doesn't exist;
+Файл: W:\domains\Example\Crud_oop\models\Journal.php;
+Строка: 100;
+***
+(2019-02-03 12:00:52);
+Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sklar1.journals' doesn't exist;
+Файл: W:\domains\Example\Crud_oop\models\Journal.php;
+Строка: 100;
+***
+(2019-02-03 12:01:25);
+Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sklar1.journals' doesn't exist;
+Файл: W:\domains\Example\Crud_oop\models\Journal.php;
+Строка: 100;
+***
+(2019-02-03 12:01:44);
+Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sklar1.journals' doesn't exist;
+Файл: W:\domains\Example\Crud_oop\models\Journal.php;
+Строка: 100;
+***
+(2019-02-03 12:03:01);
+Текст ошибки: Class 'Models\Start' not found;
+Файл: W:\domains\Example\Crud_oop\models\Start3.php;
+Строка: 11;
+***
+(2019-02-03 12:03:18);
+Текст ошибки: Class 'Models\Start' not found;
+Файл: W:\domains\Example\Crud_oop\models\Start3.php;
+Строка: 11;
+***
